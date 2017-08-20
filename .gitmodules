@@ -1,0 +1,3 @@
+[submodule "FPDF"]
+	path = FPDF
+	url = https://github.com/Setasign/FPDF
