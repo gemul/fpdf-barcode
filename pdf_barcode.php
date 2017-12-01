@@ -8,7 +8,7 @@ function EAN13($x, $y, $barcode, $h=16, $w=.35, $fSize=9)
     $this->Barcode($x,$y,$barcode,$h,$w,$fSize,13);
 }
 
-function UPC_A($x, $y, $barcode, $h=16, $w=.35)
+function UPC_A($x, $y, $barcode, $h=16, $w=.35, $fSize=9)
 {
     $this->Barcode($x,$y,$barcode,$h,$w,$fSize,12);
 }
